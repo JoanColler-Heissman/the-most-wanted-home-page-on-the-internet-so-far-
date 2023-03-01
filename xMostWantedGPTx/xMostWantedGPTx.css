@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'A Another Tag';
+    font-size: 50;
+    text-align: center;
+}
+img {
+    width: 25%;
+    height: 40%;
+}
+dt {
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana;
+}
+dd {
+    font-style: italic;
+    font-family:'Arial';
+}
+a {
+    font-size: 15;
+    font-family: Consolas;
+    color: rgb(5, 32, 58);
+    font-style: italic;
+}
+ol {
+    text-align: center;
+}
